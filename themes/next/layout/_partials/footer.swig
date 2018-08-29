@@ -21,6 +21,10 @@
   {% endif %}
 </div>
 
+<div class="icp">
+    <a href="http://www.miibeian.gov.cn/" target="_black">粤ICP备17055974号</a>
+</div>
+
 {% if theme.footer.powered %}
   <div class="powered-by">{#
   #}{{ __('footer.powered', '<a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a>') }}{#
